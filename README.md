@@ -9,6 +9,8 @@
 
 ## Repository Guide
 
+**After assembling and connecting the set-up:**
+
 ### 🔧 Installation Guide
 
 Follow these steps to set up the environment and run the code:
@@ -30,3 +32,34 @@ Follow these steps to set up the environment and run the code:
 > conda env create -f environment.yml
 
 4. **Activate the environment**
+
+> conda activate LED_Measurement
+
+ **Note on names:**  
+ - The repository folder name (`LED_Measurement`) is created when you clone or unzip the project.  
+ - The conda environment name comes from the `environment.yml` file.  
+ - These names are independent: use the folder name when navigating with `cd`, and use the environment name when activating with `conda activate`.
+
+## 📦 Dependencies
+
+This project uses a conda environment defined in `environment.yml`.  
+Key dependencies include:
+
+- **Python** (version specified in `environment.yml`)
+- **NumPy** – numerical computing
+- **Pandas** – data manipulation and analysis
+- **Matplotlib** – plotting and visualization
+- **SciPy** – scientific computing
+- **Jupyter** – interactive notebooks
+- **Seabreeze** - spectroradiometer Control library
+
+## ▶️ Usage
+
+Once the environment is active and you are inside the repository folder (`Dye-Indicator-Model`):
+
+**Launch Jupyter Notebook** (requires Jupyter installed):
+
+> jupyter notebook
+  
+- Navigate to the notebook file (e.g., filename.ipynb) in the browser interface.
+- Open and run cells interactively.

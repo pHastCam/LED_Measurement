@@ -55,7 +55,7 @@ Key dependencies include:
 
 ## ▶️ Usage
 
-Once the environment is active and you are inside the repository folder (`Dye-Indicator-Model`):
+Once the environment is active and you are inside the repository folder (`LED_Measurement`):
 
 **Launch Jupyter Notebook** (requires Jupyter installed):
 

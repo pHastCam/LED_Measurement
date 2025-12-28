@@ -1,1 +1,2 @@
-![Alt text](set-up.jpg)
+<img src="set-up.jpg" width="300">
+

@@ -13,7 +13,7 @@
 
 Follow these steps to set up the environment and run the code:
 
-1. **Create a working folder** on your local machine and move into it:
+1. **Create a working folder** on your local machine and move into it (I am calling it LED_Measurement):
 
 > mkdir Projects
 
@@ -21,9 +21,9 @@ Follow these steps to set up the environment and run the code:
 
 2. **Obtain the repository**
 
-> git clone https://github.com/pHastCam/Dye-Indicator-Model.git
+> git clone [https://github.com/pHastCam/Dye-Indicator-Model.git](https://github.com/pHastCam/LED_Measurement.git)
 
-> cd Dye-Indicator-Model
+> cd LED_Measurement
 
 3. **Create the conda environment**
 

@@ -23,7 +23,7 @@ Follow these steps to set up the environment and run the code:
 
 2. **Obtain the repository**
 
-> git clone [https://github.com/pHastCam/Dye-Indicator-Model.git](https://github.com/pHastCam/LED_Measurement.git)
+> git clone [https://github.com/pHastCam/LED_Measurement.git](https://github.com/pHastCam/LED_Measurement.git)
 
 > cd LED_Measurement
 

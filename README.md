@@ -1,3 +1,6 @@
+This repository supports a University of Washington project to develop a low-cost imaging tool that measures pH changes induced by coatings that host dye indicators. The first milestone of this project is to use pH indicator strips as reliable quantitative sensors, achieving specs established by UNICEF. Ultimately, we plan to use these tools to screen for hypoxic-ischemic encephalopathy in babies.
+
+##LED measurement and data prep for modeling##
 | <img src="set-up.jpg" width="2400"> | This figure shows the LED measurement set-up.  The feature labeled 'A' is the ring LED enclosed in a lab-made low-cost semi-integrating sphere.  The assembly is shown in the lower left corner.  A1 shows the ring LED baffled with a plastic petri dish coated with diffuse white paint.  A2 is the semi-sphere also coated with diffuse white paint.  The top of the semi-sphere is connected to a fiber optic cable that collects light for measurement by the USB2000 spectroradiometer (B).  A cable connecting the spectroradiometer to the laptop computer (C) (via a USB port) provides power to the spectroradiometer. It serves as a conduit for instructions and data between the Python script hosted on the laptop and the USB2000. |
 |---------------------------------------------|:----------------------------------------------|
 

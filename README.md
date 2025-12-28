@@ -6,3 +6,27 @@
 <p align="center">
   <img src="spectrum.png" width="600">
 </p>
+
+## Repository Guide
+
+### 🔧 Installation Guide
+
+Follow these steps to set up the environment and run the code:
+
+1. **Create a working folder** on your local machine and move into it:
+
+> mkdir Projects
+
+> cd Projects
+
+2. **Obtain the repository**
+
+> git clone https://github.com/pHastCam/Dye-Indicator-Model.git
+
+> cd Dye-Indicator-Model
+
+3. **Create the conda environment**
+
+> conda env create -f environment.yml
+
+4. **Activate the environment**

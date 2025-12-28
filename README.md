@@ -1,4 +1,3 @@
 | <img src="set-up.jpg" width="1200"> | This figure shows the LED measurement set-up.  The feature labeled 'A' is the ring LED enclosed in a lab-made low-cost semi-integrating sphere.  The assembly is shown in the lower left corner.  A1 shows the ring LED baffled with a plastic petri dish coated with diffuse white paint.  A2 is the semi-sphere also coated with diffuse white paint.  The top of the semi-sphere is connected to a fiber optic cable that collects light for the USB2000 spectroradiometer (B).  A cable connecting the spectroradiometer to the laptop computer (C) (via USB port) provides power to the spectroradiometer and a conduit for instructions and data between the Python script hosted on the laptop and the USB2000. |
 |---------------------------------------------|:----------------------------------------------|
 
-T |

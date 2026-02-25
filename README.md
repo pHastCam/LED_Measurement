@@ -19,7 +19,7 @@ The Python script establishes communications with the spectroradiometer - for mo
 ## Usage
 1. When the environment is active, launch Jupyter Notebook 
 2. Open to the notebook associated with the code in the browser interface
-3. Note that several cells require changes to the local path of the files on the user's computer.
+3. Note that this code is designed to use a USB2000 spectroradiometer, so the exact interface and required code may change if a different spectroradiometer is used. 
 
 ## Built with 
 Python 3.9.17

@@ -7,14 +7,14 @@ The Python script establishes communications with the spectroradiometer - for mo
 </p>
 
 ## Installation  
-1. Clone the repository
-    git clone https://github.com/pHastCam/LED_Measurement.git
-    cd LED_Measurement
-2. Create the conda environment from YAML file
-    conda env create -f environment.yml
-3. Activate the environment
-    conda activate LED_Measurement
-4. Launch Jupyter Notebook
+1. Clone the repository  
+    git clone https://github.com/pHastCam/LED_Measurement.git  
+    cd LED_Measurement  
+2. Create the conda environment from YAML file  
+    conda env create -f environment.yml  
+3. Activate the environment  
+    conda activate LED_Measurement  
+4. Launch Jupyter Notebook  
 
 ## Usage
 1. When the environment is active, launch Jupyter Notebook 
@@ -22,17 +22,10 @@ The Python script establishes communications with the spectroradiometer - for mo
 3. Note that this code is designed to use a USB2000 spectroradiometer, so the exact interface and required code may change if a different spectroradiometer is used. 
 
 ## Built with 
-Python 3.9.17
-Numpy 1.25.2
-Pandas 1.5.3
-Matplotlib 3.7.1
-SciPy 1.11.1
-Seabreeze 2.4.0
+Python 3.9.17  
+Numpy 1.25.2  
+Pandas 1.5.3  
+Matplotlib 3.7.1  
+SciPy 1.11.1  
+Seabreeze 2.4.0  
 
-
-
-
-
-
-- Navigate to the notebook file (e.g., filename.ipynb) in the browser interface.
-- Open and run cells interactively.
